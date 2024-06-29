@@ -78,3 +78,31 @@
 // }
 
 
+// #include<stdio.h>
+// int main(){
+//     int x,y;
+//     for(x=5;x>=1;x--){
+//         for(y=1;y<=x;y++){
+//             printf("%d\n",y);
+//         }
+//     }
+// }
+
+
+
+// #include<stdio.h>
+// int main(){
+//     float f=0.1;
+//     if (f=0.1)
+//     {
+//         printf("true\n");
+//     }
+//     else{
+//         printf("false\n");
+//     }
+    
+//     return 0;
+// }
+
+
+
